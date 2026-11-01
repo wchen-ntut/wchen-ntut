@@ -12,19 +12,18 @@
 ---
 
 ## 🔬 About Me
-I am a professor based at National Taipei University of Technology (NTUT)[cite: 2, 3]. My core research bridges physical geography, natural hazards, and advanced computational methods. I focus on developing robust spatial models and machine learning pipelines to understand Earth surface dynamics[cite: 2, 3].
+I am a professor based at National Taipei University of Technology (NTUT). My core research bridges physical geography, natural hazards, and advanced computational methods. I focus on developing robust spatial models and machine learning pipelines to understand Earth surface dynamics.
 
 ---
 
 ## 🗺️ Research Interests & Expertise
-* **Geospatial Intelligence & Observation:** GIS, Remote Sensing, spatial-temporal modeling, and surface deformation mapping[cite: 2, 3].
-* **Earth Surface Hazards & Dynamics:** Soil erosion, slope stability & landslide mechanisms, rockfall trajectory simulation, and complex flow velocity modeling[cite: 2, 3].
-* **Computational Modeling:** Machine Learning (ML), Deep Learning (DL) applications in geosciences, and predictive spatial analytics[cite: 2, 3].
-* **Model Evaluation & Theory:** Mathematical analysis and inter-relationships between Root Mean Square Error (RMSE) and Nash-Sutcliffe Efficiency (NSE) in hydrological and environmental modeling[cite: 2, 3].
+* **Geospatial Intelligence & Observation:** GIS, Remote Sensing, spatial-temporal modeling, and surface deformation mapping.
+* **Earth Surface Hazards & Dynamics:** Soil erosion, slope stability & landslide mechanisms, rockfall trajectory simulation, and complex flow velocity modeling.
+* **Computational Modeling:** Machine Learning (ML), Deep Learning (DL) applications in geosciences, and predictive spatial analytics.
+* **Model Evaluation & Theory:** Mathematical analysis and inter-relationships between Root Mean Square Error (RMSE) and Nash-Sutcliffe Efficiency (NSE) in hydrological and environmental modeling.
 
 ---
 
 ## 🚀 Projects
-*(This section will feature selected research-related repositories and associated papers, similar to a modular portfolio.)*
 * **[landform-mapper](https://github.com/wchen-ntut/landform-mapper):** Automated terrain and landform mapping using geospatial analytics.
 * **[rose-flow](https://github.com/wchen-ntut/rose-flow):** Complex flow velocity and routing simulation framework.
